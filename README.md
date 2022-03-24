@@ -48,7 +48,7 @@ Download Python
 Download Mass-win 
 Extract Mass-win  into Desktop
 Open CMD and type the following commands:
-cd Desktop/Mass-win -master/
+cd Desktop/Mass-win-master/
 python3  yca.py 
 ```
 
